@@ -1,0 +1,79 @@
+///////////////////////////////////////////////////////////////////////////////////
+Detalii factura #1:
+ID factura: HJK01010233
+ID client: CL233000011
+Adresa client: bld. Stefan cel Mare 219, G9
+Valoare:    112.36
+///////////////////////////////////////////////////////////////////////////////////
+Detalii factura #2:
+ID factura: HJK01010199
+ID client: CL199000092
+Adresa client: bld. Dorobanti 71, -
+Valoare:     99.18
+///////////////////////////////////////////////////////////////////////////////////
+Detalii facturi vector alocat la compilare:
+Detalii factura #1:
+ID factura: HJK01010233
+ID client: CL233000011
+Adresa client: bld. Stefan cel Mare 219, G9
+Valoare:    112.36
+--------------------------------------------------------------
+Detalii factura #2:
+ID factura: HJK01010199
+ID client: CL199000092
+Adresa client: bld. Dorobanti 71, -
+Valoare:     99.18
+--------------------------------------------------------------
+Detalii factura #3:
+ID factura: HJK01010200
+ID client: CL199000056
+Adresa client: bld. Magheru 16, C3
+Valoare:    100.56
+--------------------------------------------------------------
+Detalii factura #4:
+ID factura: HJK01010300
+ID client: CL199000047
+Adresa client: bld. Romana 3, E4
+Valoare:    145.44
+--------------------------------------------------------------
+Detalii factura #5:
+ID factura: HJK01010400
+ID client: CL199000088
+Adresa client: bld. Dacia 25, -
+Valoare:    104.39
+--------------------------------------------------------------
+///////////////////////////////////////////////////////////////////////////////////
+Detalii facturi vector alocat la run-time:
+Detalii factura #1:
+ID factura: HJK01010233
+ID client: CL233000011
+Adresa client: bld. Stefan cel Mare 219, G9
+Valoare:    112.36
+--------------------------------------------------------------
+Detalii factura #2:
+ID factura: HJK01010199
+ID client: CL199000092
+Adresa client: bld. Dorobanti 71, -
+Valoare:     99.18
+--------------------------------------------------------------
+Detalii factura #3:
+ID factura: HJK01010200
+ID client: CL199000056
+Adresa client: bld. Magheru 16, C3
+Valoare:    100.56
+--------------------------------------------------------------
+Detalii factura #4:
+ID factura: HJK01010300
+ID client: CL199000047
+Adresa client: bld. Romana 3, E4
+Valoare:    145.44
+--------------------------------------------------------------
+Detalii factura #5:
+ID factura: HJK01010400
+ID client: CL199000088
+Adresa client: bld. Dacia 25, -
+Valoare:    104.39
+--------------------------------------------------------------
+///////////////////////////////////////////////////////////////////////////////////
+Valoare totala facturi vector alocat la compilare: 561.930000
+Valoare totala facturi vector alocat la run-time: 561.930000
