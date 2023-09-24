@@ -1,0 +1,15 @@
+////////////////////////////////////////////////////////////////////////////////////////
+Adresa si continut initial variabila pointer la functie pFct:
+Adresa segment stack unde variabila pFct a fost alocata la compilare = 0x000000A86A2FF928
+Adresa segment de cod continuta de variabila pFct= 0x00007FF6FAAB1221
+Rezultat apel functie f prin pointer la functie: 9.099999
+
+Rezultat #1 apel functie cu parametru pointer la functie: 9.099999
+
+////////////////////////////////////////////////////////////////////////////////////////
+Adresa si continut dupa modificare pentru variabila pointer la functie pFct:
+Adresa segment stack unde variabila pFct a fost alocata la compilare = 0x000000A86A2FF928
+Adresa segment de cod continuta de variabila pFct= 0x00007FF6FAAB10EB
+Rezultat apel functie g prin pointer la functie: 0.318841
+
+Rezultat #2 apel functie cu parametru pointer la functie: 0.318841
