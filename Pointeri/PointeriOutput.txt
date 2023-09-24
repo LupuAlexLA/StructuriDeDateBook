@@ -1,0 +1,211 @@
+///////////////////////////////////////////////////////////////////////////
+
+Adrese si continuturi initiale ale variabilelor x si px:
+Adresa segment stack unde variabila px a fost alocata la compilare = 0x0000007C75B4F508
+Continut existent la adresa din variabila px = 103
+Adresa segment stack unde variabila x a fost alocata la compilare = 0x0000007C75B4F4E4
+Continut (valoare intreaga) variabila x = 103
+Adrese si continuturi ale variabilelor x si px dupa modificarea continutului lui x:
+Adresa segment stack unde variabila px a fost alocata la compilare = 0x0000007C75B4F508
+Adresa segment stack continuta de variabila px = 0x0000007C75B4F4E4
+Continut existent la adresa din variabila px = 106
+Adresa segment stack unde variabila x a fost alocata la compilare = 0x0000007C75B4F4E4
+Continut (valoare intreaga) variabila x = 106
+
+///////////////////////////////////////////////////////////////////////////
+
+Adrese si continuturi initiale ale variabilelor vint si pci:
+Adresa segment stack unde variabila pointer constant pci a fost alocata la compilare = 0x0000007C75B4F568
+Adresa segment stack continuta de variabilla pointer constant pci = 0x0000007C75B4F524
+Continut existent la adresa din variabila pointer constant pci = 13
+Adresa segment stack unde variabila vint a fost alocata la compilare = 0x0000007C75B4F524
+Continut (valoare intreaga) variabila vint = 13
+
+///////////////////////////////////////////////////////////////////////////
+
+Adrese si continuturi initiale ale variabilelor vint si pint:
+Adresa segment stack unde variabila pointer la int constant pint a fost alocata la compilare = 0x0000007C75B4F588
+Adresa segment stack continuta de variabilla pointer la int constant pint = 0x0000007C75B4F524
+Continut existent la adresa din variabila pointer la int constant pint = 13
+Adresa segment stack unde variabila vint a fost alocata la compilare = 0x0000007C75B4F524
+Continut (valoare intreaga) variabila vint = 13
+
+///////////////////////////////////////////////////////////////////////////
+
+Adrese si continuturi initiale ale variabilelor vint si pint2:
+Adresa segment stack unde variabila pointer constant la int constant pint2 a fost alocata la compilare = 0x0000007C75B4F5A8
+Adresa segment stack continuta de variabilla pointer constant la int constant pint2 = 0x0000007C75B4F524
+Continut existent la adresa din variabila pointer constant2 la int constant pint = 13
+Adresa segment stack unde variabila vint a fost alocata la compilare = 0x0000007C75B4F524
+Continut (valoare intreaga) variabila vint = 13
+
+///////////////////////////////////////////////////////////////////////////
+
+Adrese si continuturi ale variabilelor vx si px dupa initializarea elementelor din vx:
+Adresa segment stack unde variabila px a fost alocata la compilare = 0x0000007C75B4F508
+Adresa segment stack continuta de variabilla px = 0x0000007C75B4F5C8
+Adresa segment stack unde variabila vx a fost alocata la compilare = 0x0000007C75B4F5C8
+Element vx[1]: Adresa segment stack = 0x0000007C75B4F5C8, Continut (valoare intreaga) = 106
+Element vx[2]: Adresa segment stack = 0x0000007C75B4F5C9, Continut (valoare intreaga) = 107
+Element vx[3]: Adresa segment stack = 0x0000007C75B4F5CA, Continut (valoare intreaga) = 108
+Element vx[4]: Adresa segment stack = 0x0000007C75B4F5CB, Continut (valoare intreaga) = 109
+Element vx[5]: Adresa segment stack = 0x0000007C75B4F5CC, Continut (valoare intreaga) = 110
+Element vx[6]: Adresa segment stack = 0x0000007C75B4F5CD, Continut (valoare intreaga) = 111
+Element vx[7]: Adresa segment stack = 0x0000007C75B4F5CE, Continut (valoare intreaga) = 112
+Element vx[8]: Adresa segment stack = 0x0000007C75B4F5CF, Continut (valoare intreaga) = 113
+Element vx[9]: Adresa segment stack = 0x0000007C75B4F5D0, Continut (valoare intreaga) = 114
+Element vx[10]: Adresa segment stack = 0x0000007C75B4F5D1, Continut (valoare intreaga) = 115
+
+///////////////////////////////////////////////////////////////////////////
+
+Adrese si continuturi ale variabilelor str si ppc dupa initializarea elementelor din str:
+Adresa segment stack unde variabila ppc a fost alocata la compilare = 0x0000007C75B4F668
+Adresa segment stack continuta de variabilla ppc = 0x0000007C75B4F638
+Adresa segment stack unde variabila str a fost alocata la compilare = 0x0000007C75B4F638
+Dimensiune vector = 15 elemente, Lungime sir de caractere = 14 caractere/simboluri, continut (string ASCII) variabila str/ppc = Aplicatie in C
+Continut (format hexa) la nivele elemente vector str/ppc
+Element str[1]: 0x41
+Element str[2]: 0x70
+Element str[3]: 0x6C
+Element str[4]: 0x69
+Element str[5]: 0x63
+Element str[6]: 0x61
+Element str[7]: 0x74
+Element str[8]: 0x69
+Element str[9]: 0x65
+Element str[10]: 0x20
+Element str[11]: 0x69
+Element str[12]: 0x6E
+Element str[13]: 0x20
+Element str[14]: 0x43
+Element str[15]: 0x00
+Adrese si continuturi ale variabilelor str si ppc dupa rescrierea terminatorului sir de caractere din str:
+Adresa segment stack unde variabila ppc a fost alocata la compilare = 0x0000007C75B4F668
+Adresa segment stack continuta de variabilla ppc = 0x0000007C75B4F638
+Adresa segment stack unde variabila str a fost alocata la compilare = 0x0000007C75B4F638
+Dimensiune vector = 15 elemente, Lungime sir de caractere = 53 caractere/simboluri, continut (string ASCII) variabila str/ppc = Aplicatie in C☺╠╠╠╠╠╠╠╠╠╠╠╠╠╠╠╠╠╠╠╠╠╠╠╠╠╠╠╠╠╠╠╠╠8÷┤u|
+Continut (format hexa) la nivele elemente vector str/ppc
+Element str[1]: 0x41
+Element str[2]: 0x70
+Element str[3]: 0x6C
+Element str[4]: 0x69
+Element str[5]: 0x63
+Element str[6]: 0x61
+Element str[7]: 0x74
+Element str[8]: 0x69
+Element str[9]: 0x65
+Element str[10]: 0x20
+Element str[11]: 0x69
+Element str[12]: 0x6E
+Element str[13]: 0x20
+Element str[14]: 0x43
+Element str[15]: 0x01
+
+///////////////////////////////////////////////////////////////////////////
+
+Adrese si continuturi ale variabilelor vint si vpi dupa initializarea elementelor din vpi:
+Adresa segment stack unde variabila vector vpi a fost alocata la compilare = 0x0000007C75B4F6D0
+Adresa segment stack unde variabila vint a fost alocata la compilare = 0x0000007C75B4F524
+Element vpi[1]: Adresa segment stack = 0x0000007C75B4F6D0, Continut (adresa segment stack variabila vint) = 0x0000007C75B4F524
+Element vpi[2]: Adresa segment stack = 0x0000007C75B4F6D8, Continut (adresa segment stack variabila vint) = 0x0000007C75B4F524
+Element vpi[3]: Adresa segment stack = 0x0000007C75B4F6E0, Continut (adresa segment stack variabila vint) = 0x0000007C75B4F524
+Element vpi[4]: Adresa segment stack = 0x0000007C75B4F6E8, Continut (adresa segment stack variabila vint) = 0x0000007C75B4F524
+Element vpi[5]: Adresa segment stack = 0x0000007C75B4F6F0, Continut (adresa segment stack variabila vint) = 0x0000007C75B4F524
+Element vpi[6]: Adresa segment stack = 0x0000007C75B4F6F8, Continut (adresa segment stack variabila vint) = 0x0000007C75B4F524
+Element vpi[7]: Adresa segment stack = 0x0000007C75B4F700, Continut (adresa segment stack variabila vint) = 0x0000007C75B4F524
+Element vpi[8]: Adresa segment stack = 0x0000007C75B4F708, Continut (adresa segment stack variabila vint) = 0x0000007C75B4F524
+Element vpi[9]: Adresa segment stack = 0x0000007C75B4F710, Continut (adresa segment stack variabila vint) = 0x0000007C75B4F524
+Element vpi[10]: Adresa segment stack = 0x0000007C75B4F718, Continut (adresa segment stack variabila vint) = 0x0000007C75B4F524
+Adrese si continuturi ale variabilelor vint si vpi dupa modificarea elementului vpi[1]:
+Adresa segment stack unde variabila vector vpi a fost alocata la compilare = 0x0000007C75B4F6D0
+Adresa segment stack unde variabila vint a fost alocata la compilare = 0x0000007C75B4F524
+Element vpi[1]: Adresa segment stack = 0x0000007C75B4F6D0, Continut (adresa segment stack variabila vint) = 0x0000007C75B4F524
+Element vpi[2]: Adresa segment stack = 0x0000007C75B4F6D8, Continut (adresa segment stack variabila vint) = 0x0000007C75B4F528
+Element vpi[3]: Adresa segment stack = 0x0000007C75B4F6E0, Continut (adresa segment stack variabila vint) = 0x0000007C75B4F524
+Element vpi[4]: Adresa segment stack = 0x0000007C75B4F6E8, Continut (adresa segment stack variabila vint) = 0x0000007C75B4F524
+Element vpi[5]: Adresa segment stack = 0x0000007C75B4F6F0, Continut (adresa segment stack variabila vint) = 0x0000007C75B4F524
+Element vpi[6]: Adresa segment stack = 0x0000007C75B4F6F8, Continut (adresa segment stack variabila vint) = 0x0000007C75B4F524
+Element vpi[7]: Adresa segment stack = 0x0000007C75B4F700, Continut (adresa segment stack variabila vint) = 0x0000007C75B4F524
+Element vpi[8]: Adresa segment stack = 0x0000007C75B4F708, Continut (adresa segment stack variabila vint) = 0x0000007C75B4F524
+Element vpi[9]: Adresa segment stack = 0x0000007C75B4F710, Continut (adresa segment stack variabila vint) = 0x0000007C75B4F524
+Element vpi[10]: Adresa segment stack = 0x0000007C75B4F718, Continut (adresa segment stack variabila vint) = 0x0000007C75B4F524
+
+///////////////////////////////////////////////////////////////////////////
+
+Adrese si continuturi ale variabilelor px si n dupa alocare si initializare memorie heap:
+Adresa segment stack unde variabila px a fost alocata la compilare = 0x0000007C75B4F508
+Adresa segment heap continuta de variabilla px = 0x000001F0380A9DA0
+Continut n (dimensiune vector) = 51 elemente
+Element px[1]: 65
+Element px[2]: 113
+Element px[3]: 110
+Element px[4]: 108
+Element px[5]: 103
+Element px[6]: 102
+Element px[7]: 122
+Element px[8]: 112
+Element px[9]: 109
+Element px[10]: 41
+Element px[11]: 115
+Element px[12]: 121
+Element px[13]: 44
+Element px[14]: 80
+Element px[15]: 15
+Element px[16]: 219
+Element px[17]: 220
+Element px[18]: 221
+Element px[19]: 222
+Element px[20]: 223
+Element px[21]: 224
+Element px[22]: 225
+Element px[23]: 226
+Element px[24]: 227
+Element px[25]: 228
+Element px[26]: 229
+Element px[27]: 230
+Element px[28]: 231
+Element px[29]: 232
+Element px[30]: 233
+Element px[31]: 234
+Element px[32]: 235
+Element px[33]: 236
+Element px[34]: 237
+Element px[35]: 238
+Element px[36]: 239
+Element px[37]: 240
+Element px[38]: 241
+Element px[39]: 242
+Element px[40]: 243
+Element px[41]: 244
+Element px[42]: 245
+Element px[43]: 246
+Element px[44]: 247
+Element px[45]: 248
+Element px[46]: 249
+Element px[47]: 250
+Element px[48]: 251
+Element px[49]: 104
+Element px[50]: 39
+Element px[51]: 230
+
+///////////////////////////////////////////////////////////////////////////
+
+Adrese si continuturi initiale ale variabilelor z si pz:
+Adresa segment stack unde variabila pz a fost alocata la compilare = 0x0000007C75B4F818
+Adresa segment stack continuta de variabilla pz = 0x0000007C75B4F7F4
+Adresa segment stack unde variabila z a fost alocata la compilare = 0x0000007C75B4F7F4
+Continut (valoare intreaga) variabila z = 1964105088
+Continut (format hexa BIG ENDIAN) variabila z = 0x
+80DD1175
+Continut (format hexa LITTLE ENDIAN) variabila z = 0x
+7511DD80
+Adrese si continuturi dupa modificare ale variabilelor z si pz:
+Adresa segment stack unde variabila pz a fost alocata la compilare = 0x0000007C75B4F818
+Adresa segment stack continuta de variabilla pz = 0x0000007C75B4F7F4
+Adresa segment stack unde variabila z a fost alocata la compilare = 0x0000007C75B4F7F4
+Continut (valoare intreaga) variabila z = 1971969408
+Continut (format hexa BIG ENDIAN) variabila z = 0x
+Continut (format hexa BIG ENDIAN) variabila z = 0x
+80DD8975
+Continut (format hexa LITTLE ENDIAN) variabila z = 0x
+7589DD80
