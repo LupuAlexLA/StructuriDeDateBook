@@ -1,0 +1,55 @@
+Toate cartile :
+Cartea Ion are 6 capitole :
+	Inceputul; Zvarcolirea; Iubirea; Noaptea; Rusinea; Nunta;
+Aceasta are 270 pagini si costa 30.00 RON.
+
+Cartea Morometii are 3 capitole:
+Partea intai; Partea a doua; Partea a treia;
+Aceasta are 640 pagini si costa 54.00 RON.
+
+Cartea Structuri de date are 2 capitole:
+Vectori; Matrice;
+Aceasta are 25 pagini si costa 300.00 RON.
+
+
+Cautare carte dupa titlu :
+Cartea Morometii are 3 capitole :
+	Partea intai; Partea a doua; Partea a treia;
+Aceasta are 640 pagini si costa 54.00 RON.
+
+Afisarea cartilor cu pretul sub un prag :
+Cartea Ion are 6 capitole :
+	Inceputul; Zvarcolirea; Iubirea; Noaptea; Rusinea; Nunta;
+Aceasta are 270 pagini si costa 30.00 RON.
+
+
+Afisarea cartilor cu pretul intr - un interval :
+Cartea Morometii are 3 capitole :
+	Partea intai; Partea a doua; Partea a treia;
+Aceasta are 640 pagini si costa 54.00 RON.
+
+Pretul total al cartilor : 384.00
+Numarul mediu de pagini este : 311.67
+
+Stergerea unei carti din vector dupa titlu :
+Inainte de stergere :
+Cartea Ion are 6 capitole :
+	Inceputul; Zvarcolirea; Iubirea; Noaptea; Rusinea; Nunta;
+Aceasta are 270 pagini si costa 30.00 RON.
+
+Cartea Morometii are 3 capitole:
+Partea intai; Partea a doua; Partea a treia;
+Aceasta are 640 pagini si costa 54.00 RON.
+
+Cartea Structuri de date are 2 capitole:
+Vectori; Matrice;
+Aceasta are 25 pagini si costa 300.00 RON.
+
+Dupa stergere :
+Cartea Morometii are 3 capitole :
+	Partea intai; Partea a doua; Partea a treia;
+Aceasta are 640 pagini si costa 54.00 RON.
+
+Cartea Structuri de date are 2 capitole:
+Vectori; Matrice;
+Aceasta are 25 pagini si costa 300.00 RON.
