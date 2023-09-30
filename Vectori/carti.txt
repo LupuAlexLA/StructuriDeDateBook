@@ -1,0 +1,24 @@
+3
+Ion
+6
+Inceputul
+Zvarcolirea
+Iubirea
+Noaptea
+Rusinea
+Nunta
+270
+30
+Morometii
+3
+Partea intai
+Partea a doua
+Partea a treia
+640
+54
+Structuri de date
+2
+Vectori
+Matrice
+25
+300
