@@ -1,0 +1,66 @@
+// se blocheaza la linia 219
+// chat gpt zice ca output-ul ar trebui sa arate cam asa
+
+Toate cartile:
+Cartea Ion are 3 capitole:
+Inceputul; Zvarcolirea; Iubirea; 
+Aceasta are 270 pagini si costa 30.00 RON.
+
+Cartea Morometii are 3 capitole:
+Partea intai; Partea a doua; Partea a treia; 
+Aceasta are 640 pagini si costa 54.00 RON.
+
+Cartea Structuri de date are 2 capitole:
+Vectori; Matrice; 
+Aceasta are 25 pagini si costa 300.00 RON.
+
+MINIM:30.00
+MAXIM:300.00
+
+Linia 1 :
+Cartea Ion are 3 capitole:
+Inceputul; Zvarcolirea; Iubirea; 
+Aceasta are 270 pagini si costa 30.00 RON.
+
+Linia 2 :
+Cartea Morometii are 3 capitole:
+Partea intai; Partea a doua; Partea a treia; 
+Aceasta are 640 pagini si costa 54.00 RON.
+
+Linia 3 :
+Cartea Structuri de date are 2 capitole:
+Vectori; Matrice; 
+Aceasta are 25 pagini si costa 300.00 RON.
+
+Linia 1 :
+Cartea Structuri de date are 2 capitole:
+Vectori; Matrice; 
+Aceasta are 25 pagini si costa 300.00 RON.
+
+Linia 2 :
+Cartea Ion are 3 capitole:
+Inceputul; Zvarcolirea; Iubirea; 
+Aceasta are 270 pagini si costa 30.00 RON.
+
+Linia 3 :
+Cartea Morometii are 3 capitole:
+Partea intai; Partea a doua; Partea a treia; 
+Aceasta are 640 pagini si costa 54.00 RON.
+
+Preturi medii: 30.00 30.00 54.00
+Interschimbare
+
+Linia 1 :
+Cartea Structuri de date are 2 capitole:
+Vectori; Matrice; 
+Aceasta are 25 pagini si costa 300.00 RON.
+
+Linia 2 :
+Cartea Ion are 3 capitole:
+Inceputul; Zvarcolirea; Iubirea; 
+Aceasta are 270 pagini si costa 30.00 RON.
+
+Linia 3 :
+Cartea Morometii are 3 capitole:
+Partea intai; Partea a doua; Partea a treia; 
+Aceasta are 640 pagini si costa 54.00 RON.
