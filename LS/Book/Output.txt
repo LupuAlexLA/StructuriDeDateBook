@@ -1,0 +1,63 @@
+
+Operatia 3
+Numarul de noduri din lista: 7
+
+Operatia 4
+Afisare continut lista:
+Adresa Nod Curent: 0000012A48F31790, InfoUtil: Nume telefon: iPhone, pret: 2700.00, Adresa Nod Next: 0000012A48F31470
+Adresa Nod Curent: 0000012A48F31470, InfoUtil: Nume telefon: Samsung, pret: 700.00, Adresa Nod Next: 0000012A48F31510
+Adresa Nod Curent: 0000012A48F31510, InfoUtil: Nume telefon: Chinezarie, pret: 600.00, Adresa Nod Next: 0000012A48F31100
+Adresa Nod Curent: 0000012A48F31100, InfoUtil: Nume telefon: Lg, pret: 500.00, Adresa Nod Next: 0000012A48F312E0
+Adresa Nod Curent: 0000012A48F312E0, InfoUtil: Nume telefon: Nokia, pret: 300.00, Adresa Nod Next: 0000012A48F311F0
+Adresa Nod Curent: 0000012A48F311F0, InfoUtil: Nume telefon: Alcatel, pret: 200.00, Adresa Nod Next: 0000012A48F32B80
+Adresa Nod Curent: 0000012A48F32B80, InfoUtil: Nume telefon: Huawei, pret: 1500.00, Adresa Nod Next: 0000000000000000
+
+Operatia 5.1
+Nod pozitie 7: InfoUtil: Nume telefon: Huawei, pret: 1500.00
+
+Operatia 5.2
+InfoUtil: Nume telefon: Samsung, pret: 700.00
+
+Operatia 6
+Sunt 4 telefoane care au pretul peste pragul 500.00
+
+Operatia 7
+Afisare lista dupa stergere nod pozitia 6:
+Adresa Nod Curent: 0000012A48F31790, InfoUtil: Nume telefon: iPhone, pret: 2700.00, Adresa Nod Next: 0000012A48F31470
+Adresa Nod Curent: 0000012A48F31470, InfoUtil: Nume telefon: Samsung, pret: 700.00, Adresa Nod Next: 0000012A48F31510
+Adresa Nod Curent: 0000012A48F31510, InfoUtil: Nume telefon: Chinezarie, pret: 600.00, Adresa Nod Next: 0000012A48F31100
+Adresa Nod Curent: 0000012A48F31100, InfoUtil: Nume telefon: Lg, pret: 500.00, Adresa Nod Next: 0000012A48F312E0
+Adresa Nod Curent: 0000012A48F312E0, InfoUtil: Nume telefon: Nokia, pret: 300.00, Adresa Nod Next: 0000012A48F32B80
+Adresa Nod Curent: 0000012A48F32B80, InfoUtil: Nume telefon: Huawei, pret: 1500.00, Adresa Nod Next: 0000000000000000
+
+Operatia 8
+Afisare lista principala dupa separare de la nod pozitia 4:
+Adresa Nod Curent: 0000012A48F31790, InfoUtil: Nume telefon: iPhone, pret: 2700.00, Adresa Nod Next: 0000012A48F31470
+Adresa Nod Curent: 0000012A48F31470, InfoUtil: Nume telefon: Samsung, pret: 700.00, Adresa Nod Next: 0000012A48F31510
+Adresa Nod Curent: 0000012A48F31510, InfoUtil: Nume telefon: Chinezarie, pret: 600.00, Adresa Nod Next: 0000012A48F31100
+Adresa Nod Curent: 0000012A48F31100, InfoUtil: Nume telefon: Lg, pret: 500.00, Adresa Nod Next: 0000000000000000
+
+Afisare lista secundara dupa separare de la nod pozitia 4:
+Adresa Nod Curent: 0000012A48F312E0, InfoUtil: Nume telefon: Nokia, pret: 300.00, Adresa Nod Next: 0000012A48F32B80
+Adresa Nod Curent: 0000012A48F32B80, InfoUtil: Nume telefon: Huawei, pret: 1500.00, Adresa Nod Next: 0000000000000000
+
+Operatia 9
+Afisare lista concatenata:
+Adresa Nod Curent: 0000012A48F31790, InfoUtil: Nume telefon: iPhone, pret: 2700.00, Adresa Nod Next: 0000012A48F31470
+Adresa Nod Curent: 0000012A48F31470, InfoUtil: Nume telefon: Samsung, pret: 700.00, Adresa Nod Next: 0000012A48F31510
+Adresa Nod Curent: 0000012A48F31510, InfoUtil: Nume telefon: Chinezarie, pret: 600.00, Adresa Nod Next: 0000012A48F31100
+Adresa Nod Curent: 0000012A48F31100, InfoUtil: Nume telefon: Lg, pret: 500.00, Adresa Nod Next: 0000012A48F312E0
+Adresa Nod Curent: 0000012A48F312E0, InfoUtil: Nume telefon: Nokia, pret: 300.00, Adresa Nod Next: 0000012A48F32B80
+Adresa Nod Curent: 0000012A48F32B80, InfoUtil: Nume telefon: Huawei, pret: 1500.00, Adresa Nod Next: 0000000000000000
+
+Operatia 10
+Afisare lista sortata dupa pret:
+Adresa Nod Curent: 0000012A48F31790, InfoUtil: Nume telefon: Nokia, pret: 300.00, Adresa Nod Next: 0000012A48F31470
+Adresa Nod Curent: 0000012A48F31470, InfoUtil: Nume telefon: Lg, pret: 500.00, Adresa Nod Next: 0000012A48F31510
+Adresa Nod Curent: 0000012A48F31510, InfoUtil: Nume telefon: Chinezarie, pret: 600.00, Adresa Nod Next: 0000012A48F31100
+Adresa Nod Curent: 0000012A48F31100, InfoUtil: Nume telefon: Samsung, pret: 700.00, Adresa Nod Next: 0000012A48F312E0
+Adresa Nod Curent: 0000012A48F312E0, InfoUtil: Nume telefon: Huawei, pret: 1500.00, Adresa Nod Next: 0000012A48F32B80
+Adresa Nod Curent: 0000012A48F32B80, InfoUtil: Nume telefon: iPhone, pret: 2700.00, Adresa Nod Next: 0000000000000000
+
+Operatia 11
+Afisare lista dupa stergere:
