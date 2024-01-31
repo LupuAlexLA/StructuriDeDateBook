@@ -1,0 +1,49 @@
+Masina  Opel Astra inserata
+Masina  Porsche 911 inserata
+Masina  Peugeot 406 inserata
+Masina  Seat Leon1 inserata
+Masina  Nissan GT-R inserata
+Masina  Audi SQ5 inserata
+Masina  Seat Leon2 inserata
+
+Tabela de dispersie dupa creare si populare:
+Lista no. 8:
+104  Seat Leon1
+Lista no. 9:
+107  Seat Leon2
+Lista no. 43:
+102  Porsche 911
+Lista no. 47:
+103  Peugeot 406
+Lista no. 66:
+105  Nissan GT-R
+Lista no. 68:
+106  Audi SQ5
+Lista no. 71:
+101  Opel Astra
+Masina nu a fost identificata in tabela de dispersie.
+
+
+
+Maximul de coliziuni este 1, prezent in urmatoarele liste:  9  10  44  48  67  69  72
+
+Seturi de date eliminate din tabela de dispersie:
+
+ ---Nu au fost identificate masini pentru cheia de cautare specificata.
+
+
+Tabela de dispersie dupa stergere studenti pe baza cheii de cautare:
+Lista no. 8:
+104  Seat Leon1
+Lista no. 9:
+107  Seat Leon2
+Lista no. 43:
+102  Porsche 911
+Lista no. 47:
+103  Peugeot 406
+Lista no. 66:
+105  Nissan GT-R
+Lista no. 68:
+106  Audi SQ5
+Lista no. 71:
+101  Opel Astra
