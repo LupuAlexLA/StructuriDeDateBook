@@ -1,0 +1,8 @@
+
+ Telefonul Samsung1 are codul 3 si pretul 300.000000
+ Telefonul Nokia are codul 2 si pretul 250.000000
+ Telefonul AllView are codul 1 si pretul 200.000000
+ Telefonul Chinezarie are codul 4 si pretul 600.000000
+ Telefonul Samsung2 are codul 5 si pretul 800.000000
+ Telefonul LG are codul 6 si pretul 0.000000
+Pretul mediu = 358.333344
