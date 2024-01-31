@@ -1,0 +1,7 @@
+101, Opel Astra, 100
+102, Porsche 911, 600
+103, Peugeot 406, 100
+104, Seat Leon1, 200
+105, Nissan GT-R, 500
+106, Audi SQ5, 200
+107, Seat Leon2, 100
