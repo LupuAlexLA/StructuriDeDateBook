@@ -1,0 +1,6 @@
+Alcatel, 200
+Nokia, 300
+Lg, 500
+Chinezarie, 600
+Samsung, 700
+iPhone, 2700
