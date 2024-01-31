@@ -1,0 +1,15 @@
+Pozitie goala in Hash 0
+Pozitie goala in Hash 1
+Pozitia din hash: 2
+Marca: HP, pret: 900.000000
+Pozitie goala in Hash 3
+Pozitia din hash: 4
+Marca: Asus, pret: 100.000000
+Marca: Acer, pret: 700.000000
+Pozitia din hash: 5
+Marca: Apple, pret: 2445.000000
+Pozitia din hash: 6
+Marca: Lenovo, pret: 300.000000
+Pozitie goala in Hash 7
+Pozitie goala in Hash 8
+Pozitie goala in Hash 9
