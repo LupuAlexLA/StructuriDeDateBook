@@ -1,0 +1,18 @@
+Cautare telefon cu id 2
+
+Telefonul cu id-ul 2 se numeste iPhone si costa 3000
+Afisare stiva
+
+Telefonul cu id-ul 3 se numeste Pixel si costa 2500
+
+Telefonul cu id-ul 1 se numeste Samsung si costa 2000
+Cautare telefon cu id 5
+Telefon gasit:
+
+Telefonul cu id-ul 5 se numeste BlackBerry si costa 1000
+
+
+Afisare coada:
+Telefonul cu id-ul 6 se numeste OnePro si costa 1000
+
+Telefonul cu id-ul 4 se numeste Huawei si costa 1500
