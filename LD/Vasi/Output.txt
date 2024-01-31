@@ -1,0 +1,13 @@
+Afisare lista dubla
+Telefonul iPhone costa 2500.
+Telefonul Huawe costa 1300.
+Telefonul Samsung costa 1500.
+Telefonul Chinezarie costa 600.
+Telefonul AllView costa 300.
+
+Afisare vector
+Telefonul iPhone costa 2500.
+Telefonul Huawe costa 1300.
+Telefonul Samsung costa 1500.
+Telefonul Chinezarie costa 600.
+Telefonul AllView costa 300.
