@@ -1,0 +1,45 @@
+
+Operatia 4
+Acces element disponibil in STACK:
+InfoUtil: Nume masina: Nissan GT-R, cai: 570
+
+Operatia 4
+Acces element disponibil in QUEUE:
+InfoUtil: Nume masina: Opel Astra, cai: 75
+
+Operatia 4
+Acces element disponibil in DECK:
+InfoUtil: Nume masina: Cupra Formentor, cai: 330
+
+Operatia 5
+Afisarea elementelor din STACK:
+InfoUtil: Nume masina: Nissan GT-R, cai: 570
+InfoUtil: Nume masina: Cupra Formentor, cai: 330
+InfoUtil: Nume masina: Seat Leon, cai: 170
+InfoUtil: Nume masina: Peugeot 406, cai: 105
+InfoUtil: Nume masina: Seat Leon, cai: 200
+InfoUtil: Nume masina: Opel Astra, cai: 75
+
+Extragerea tuturor elementelor din STACK:
+InfoUtil: Nume masina: Nissan GT-R, cai: 570
+InfoUtil: Nume masina: Cupra Formentor, cai: 330
+InfoUtil: Nume masina: Seat Leon, cai: 170
+InfoUtil: Nume masina: Peugeot 406, cai: 105
+InfoUtil: Nume masina: Seat Leon, cai: 200
+InfoUtil: Nume masina: Opel Astra, cai: 75
+
+Extragerea tuturor elementelor din QUEUE:
+InfoUtil: Nume masina: Opel Astra, cai: 75
+InfoUtil: Nume masina: Seat Leon, cai: 200
+InfoUtil: Nume masina: Peugeot 406, cai: 105
+InfoUtil: Nume masina: Seat Leon, cai: 170
+InfoUtil: Nume masina: Cupra Formentor, cai: 330
+InfoUtil: Nume masina: Nissan GT-R, cai: 570
+
+Extragerea tuturor elementelor din DECK:
+InfoUtil: Nume masina: Cupra Formentor, cai: 330
+InfoUtil: Nume masina: Nissan GT-R, cai: 570
+InfoUtil: Nume masina: Peugeot 406, cai: 105
+InfoUtil: Nume masina: Seat Leon, cai: 170
+InfoUtil: Nume masina: Opel Astra, cai: 75
+InfoUtil: Nume masina: Seat Leon, cai: 200
